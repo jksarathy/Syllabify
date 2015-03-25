@@ -1,0 +1,66 @@
+Jayshree Sarathy
+jayshree.sarathy@yale.edu
+
+
+Part I:
+
+1. 
+In words that end with -ly, doesn't separate L IY as the last syllable
+	eg. Harshly is parsed as HHAAR + SHLIY instead of HHAARSH + LIY
+In many words, S is incorrectly grouped in the onset instead of coda of previous syllable
+   	eg. Misfile is parsed as MIH + SFAYL instead of MIHS + FAYL
+
+2. 
+These errors happen probably because the syllabification process given is simplified. There are
+several exceptions to the rules. For example, often when S is followed by a consonant and
+preceded by a vowel, it joins the coda of the previous syllable. Similarly, if LIY appears 
+at the end of the word, it is likely to be its own syllable. Of course, these further observations
+are sure to have several exceptions of their own.
+
+3.
+The syllabification process could attempt to generalize for some of the more common exceptions,
+such as the ones listed above.
+
+4. EXTRA CREDIT
+I added two tests: if the syllable "S" was preceded by a vowel or K and followed by a consonant, 
+I added the "+" sign after "S". If "L IY" appeared at the end of a word, excluding words
+that ended with "B L IY" and "T L IY", I preceded "L" with a "+".
+
+
+Part II:
+
+1.
+Children attempt simple syllable types first. In both Charlotte's and Georgia's 13 month files, for example,
+they attempted CV, CVC, and V. Georgia being slightly more advanced also attempted CCVC. In the later files,
+they attempted a much wider and more complicated range of syllable types. For example, Charlotte attempted syllables
+as complicated as CCCVC, CVCC, and CCCV while Georgia attempted CCVCC and CCVC.
+
+2.
+Children initially actually say the syllables V and CV, as well as CVC. For example, when Charlotte was 13 months
+she said CV 50.52% of the time, V 48.45% of the time, and CVC only 1.03%. Similarly, Georgia at 13 months said CV 71.88% 
+of the time, V 25% of the time, and CVC only 3.12%. In the later files, their repertoires of syllable types increased from 3 
+to 10 and 9 respectively. While they both still said CV the most out of all the syllables (49.23% and 47.44%), they also
+managed to say other syllable types quite frequently such as CVC (25.82% and 28.33%) and more marked ones such as
+CVCCC (0.66% and 0.34%) less frequently.
+
+3.
+In general, it seems that simpler syllable types are overrepresented and more marked types are underrepresented.
+For example, when comparing Georgia's 43 month target and actual files, the syllable type CCVCC is totally underrepresented
+in her pronunciation, for the target file shows it as appearing .53% of the time, but she never says it in the actual file. 
+Also, the syllable types CV (47.44%, 41.39%) and VC (9.73%, 7.99%) are overrepresented in her pronunciation and the syllable 
+type VCC (0.34%, 2.49%) is underrepresented.
+Comparing Charlotte's 35 month target and actual files, we see similar results. Again CCVCC is nowhere to be 
+found in the actual file, while the type CV is overrepresented. In Charlotte's files, CCV, CCVC, and VCC are also
+significantly underrepresented.
+
+4.
+Through this data, we can generalize that children acquire simple syllables first, then move on to more marked syllables.
+Specifically, they seem to attempt and obtain CV, V, and CVC quite early on. Later, they grasp syllables such as CVC, and 
+then attempt (sometimes unsuccessfully) more complicated ones such as CVCCC and CCVCC.
+
+5.
+My generalizations are consistent with the Implication Universals. For example, CV seems to be better acquired early on than
+V (according to their relative proportions in Georgia's 13 month file for example: 71.88% vs 25%), and V is acquired before VC.
+Although the Implication Universals give solid guidelines for acquisition, the actual language acquisition by children seems to be 
+more fluid. For example, even though CVC and CCV are both more marked than CV, children seem to acquire CVC much sooner than CCV,
+and CCV is underrepresented even in the later files(.76% vs 1.17%).
